@@ -1,0 +1,25 @@
+body{
+    background: rgb(241, 59, 59);
+}
+
+#title{
+    color:white;
+    font-size: 30px;
+}
+#question_div{
+    background: white;
+    border-radius: 5px;
+    
+
+}
+
+#answerInput{
+    visibility: hidden;
+}
+
+#check{
+    color: white;
+    background: #27a4ce;
+    visibility: hidden;
+}
+

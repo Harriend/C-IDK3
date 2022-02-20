@@ -1,0 +1,11 @@
+body{
+background:rgb(140, 213, 231);
+}
+
+.login1 , .login2{
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    float: none;
+    text-align: center;
+}
